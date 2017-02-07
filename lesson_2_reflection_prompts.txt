@@ -10,6 +10,9 @@ working directory keeps all the changes, whereas staging area keeps the changes 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Only adding the logical changes to the stating area ensures that my commit it logical.
+In other words, it separates the commit from the actual changes that has been carried out in the working directory.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
