@@ -16,6 +16,9 @@ In other words, it separates the commit from the actual changes that has been ca
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+to experiment with a new feature without breaking the working version.
+to separate working (master)/development/experimental codes
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
