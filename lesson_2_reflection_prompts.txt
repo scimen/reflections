@@ -26,5 +26,8 @@ it provides us information about the existing branches, reachability.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+a commit with the label of one of the merged, and with the functionality from merged.
+the second part of the question?
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
