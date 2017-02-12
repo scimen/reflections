@@ -18,3 +18,8 @@ Github, and clone is used for Local to Local and Github to Local.
 
 On the other hand branches are just labels for some commits. You used branches in an
 existing repo to distinguish commits corresponding to different functionality.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+it helps us to identify changes and conflicts.
+offline working
