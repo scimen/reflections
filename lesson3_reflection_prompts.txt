@@ -23,3 +23,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 it helps us to identify changes and conflicts.
 offline working
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+by exchanging the code and the changes made. But it would be harder to detect conflicts and
+would require some time to merge changes manually.
